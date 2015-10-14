@@ -1,9 +1,9 @@
-Hotelogix 2
+Hotelogix 3
 
-Shawnan Software
-RateTiger
-eZee Centrix
-Hotel Logix
+Shawnan Software 3
+RateTiger 3
+eZee Centrix 3
+Hotel Logix 3
 Axis Rooms
 Staah
 www.quadlabs.com/xchange/online-booking-engine.aspx
